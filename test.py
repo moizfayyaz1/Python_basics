@@ -12,4 +12,4 @@ data2 = {
     "boots":("nike","adidas")
 }
 jscomp=json.dumps(data2, indent=4, sort_keys=True)
-print(jscomp)
+print(jscomp) 
